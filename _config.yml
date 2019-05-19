@@ -15,7 +15,7 @@ spaces_img_url: "/coworking/images/spaces/"
 url: "http://zatech.github.io" # the base hostname & protocol for your site
 twitter_username: offerzen
 facebook_page: offerzen
-github_username: zatech
+github_username: coworkingcameroon
 
 # Build settings
 markdown: kramdown
