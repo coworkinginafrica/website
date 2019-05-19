@@ -1,6 +1,6 @@
-# Coworking Spaces South Africa
+# Coworking Spaces Cameroon
 
-The best list of coworking spaces in South Africa
+The best list of coworking spaces in Cameroon
 
 ## Running Locally
 
