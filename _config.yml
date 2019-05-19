@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Coworking South Africa
-email: coworking@offerzen.com
+title: Coworking in Cameroon
+email: contact@coworkingcameroon.space
 description: > # this means to ignore newlines until "baseurl:"
-  Find coworking spaces in Cape Town, Johannesburg and Durban
+  Find coworking spaces in Douala, Yaounde, kribi, Maroua and Buea
 baseurl: "/coworking" # the subpath of your site, e.g. /blog
 spaces_img_url: "/coworking/images/spaces/"
 url: "http://zatech.github.io" # the base hostname & protocol for your site
